@@ -34,9 +34,4 @@ A smart contract for posting, updating, and deleting social media statuses on th
 
 Access the smart contract code [here](https://github.com/Sandhya-Thakur/web3-socila-media/blob/main/lib/contract.sol).
 
-## Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/SocialMediaStatus.git
 
