@@ -28,7 +28,7 @@ A smart contract for posting, updating, and deleting social media statuses on th
 
 ## Contract working video
 
-[![Watch the video](https://github.com/Sandhya-Thakur/web3-socila-media/blob/main/public/web3-social.png)]([https://youtu.be/TXJKPOUbcx0](https://youtu.be/rFly3Z8zoaU))
+[![Watch the video](https://github.com/Sandhya-Thakur/web3-socila-media/blob/main/public/web3-social.png)]([https://youtu.be/TXJKPOUbcx0](https://youtu.be/rFly3Z8zoaU)
 
 ## Contract Code
 
